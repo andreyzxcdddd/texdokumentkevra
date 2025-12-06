@@ -1,0 +1,9 @@
+sqlite3-windows-guide/
+├── README.md                 # Основная документация (этот файл)
+├── docs/
+│   └── commands_examples.sql # Примеры SQL-команд
+├── screenshots/
+│   ├── cmd_open.png          # Скриншот: открытие командной строки
+│   ├── sqlite_start.png      # Скриншот: запуск sqlite3
+│   └── select_example.png    # Скриншот: пример вывода SELECT
+└── .gitignore                # (по желанию) файлы/папки, исключенные из git
